@@ -1,0 +1,5 @@
+2. Please give several examples of the usage of OCR
+
+OCR has a wide range of applications. For instance, it can be used for passport recognition at airports, traffic sign recognition, extracting contact information from documents or business cards.
+
+Converting handwritten notes to machine readable text, making electronic documents searchabel like Google Books or PDFs, and for data entry for business documents such as bank statements, invoices, and receipts.

@@ -1,0 +1,5 @@
+1. Please explain what OCR is
+
+Optical Character Recognition is a technology that extracts and repurposes data from scanned documents, camera images, and PDF files. 
+
+It uses hardware and software to convert physical, printed documents into machine readable text.

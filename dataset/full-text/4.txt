@@ -1,0 +1,5 @@
+4. Please elaborate an example of OCR usage for document understanding
+
+In the context of document understanding, OCR is used to capture, extract, and process data from various types of documents. This involves reading, interpreting, and extracting information from the written text. 
+
+For example, OCR can process the image to identify the text and create a hidden layer of text and behind the image. This additional layer can be easily read by a computer, thus making the image recognizable and searchable.

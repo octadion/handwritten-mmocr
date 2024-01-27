@@ -1,0 +1,5 @@
+3. Please describe how an OCR pipeline for text in image translation, such as in Google Translate, should be
+
+An OCR pipeline for text in image translation typically includes several task specific models. This usually involves a model that detects lines of text in images, enabling cropped line images to be processed by subsequent stages. 
+
+Then, one or more classification models determine the language or script of each line image. Finally, a set of text line recognition models output the sequence of characters in each line image.

@@ -1,0 +1,5 @@
+5.How are the common architectures of text detection and text recognition models?
+
+The common architectures of text detection and recognition models often involve deep learning techniques. Two major approaches are CTC based and attention based. 
+
+These models are trained to identify the shapes of characters or numbers on an image to recognize the text in the image. They can then reconstruct the extracted text in a machine readable format.
