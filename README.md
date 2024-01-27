@@ -36,9 +36,9 @@ Ensure you have the following dependencies installed:
 - MMOCR
 - PySpellChecker
 
-## Dataset
+## Dataset Creation and Labelling
 
-This project requires a handwritten dataset. Follow these steps to create and label your dataset:
+This project requires a handwritten dataset. You can use the dataset example in [`handwritten-mmocr/dataset/`](./dataset/). Follow these steps if you want create and label your dataset:
 
 1. Collect handwritten samples for your dataset.
 2. Install and set up Label Studio.
@@ -99,3 +99,9 @@ For the text recognition model (SVTR), the following configurations should be up
 - `validation evaluator`
 - `train/test dataset list`
 - `update pretrained model url`
+
+## Related Projects
+
+You might also be interested in the following related project:
+
+- [Semantic Entity Recognition of Handwritten Images using LayoutLMV3](https://github.com/octadion/handwritten-layoutlmv3): This project focuses on extracting information from images and save it in json key-value pair format. 
