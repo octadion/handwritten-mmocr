@@ -4,9 +4,9 @@ This project is an implementation of Optical Character Recognition (OCR) using M
 
 The code is designed to perform Optical Character Recognition (OCR) on images. It utilizes two models: DBNet for detecting text areas in the images, and SVTR for recognizing the actual text within these detected areas. Once the text is recognized, it’s corrected for any spelling errors using a spell checker. The corrected text is then saved to a text file. This entire process can be applied to a single image or multiple images in a directory, depending on the input provided to the script.
 
-## Workflow
+## Pipeline
 
-The workflow of this project is as follows:
+The pipeline of this project is as follows:
 
 1. An image is input to the OCR models.
 2. The models detect areas in the image that contain text.
