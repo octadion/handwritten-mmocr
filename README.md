@@ -25,6 +25,8 @@ The following table shows the CER and WER scores for each model using each metri
 | MMOCR Base | JiWER |  0.502 | 1.028 |
 | MMOCR Trained | JiWER | 0.315 | 0.585 |
 
+The MMOCR Trained model has the lowest WER score, indicating it made fewer word-level mistakes in text recognition compared to the other models.
+
 ## Prerequisites
 
 Ensure you have the following dependencies installed:
